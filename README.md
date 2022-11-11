@@ -1,7 +1,7 @@
 # ideal-bassoon 💖
 # P04 de Entornos de Desarrollo
 
-### Antes de que veas el trabajo mira un gato sponiendose una gafas para que me pongas buena nota 👌
+### Antes de que veas el trabajo mira un gato poniendose una gafas para que me pongas buena nota 👌
 
 ![This is a image](http://68.media.tumblr.com/b7807a5df1d434aa2909e26b241b3dac/tumblr_oheq6ilCdj1urlrpuo1_500.gif)
 
